@@ -20,4 +20,4 @@ Collaborative Capstone Project – Team Size of 4
 •Created an algorithm to calculate and count user calories for the day
 
 ## Screenshot
-
+![Home Page](public/assets/CalCountHomePage.png)
