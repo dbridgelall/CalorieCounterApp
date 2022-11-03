@@ -2,7 +2,7 @@
 Creators: Kayleen, Devin, Carmen, Kainan
 
 ## Description
-An app that helps users be more mindful about their health through calorie coubnting. User is able to log and view calories for the day
+An app that helps users be more mindful about their health through calorie counting. User is able to log and view calories for the day
 
 Technologies used: **JavaScript, MongoDB, CSS, HTML, Mongoose, Express, Cloudinary API, NodeJS, Multer, Passportjs**
 
